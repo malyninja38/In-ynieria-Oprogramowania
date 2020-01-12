@@ -1,0 +1,15 @@
+/Users/dominikhazak/Documents/projektyDev/Studia/S5/IO/IOLab4/IOLab4/bin/Debug/IOLab4.exe
+/Users/dominikhazak/Documents/projektyDev/Studia/S5/IO/IOLab4/IOLab4/bin/Debug/IOLab4.pdb
+/Users/dominikhazak/Documents/projektyDev/Studia/S5/IO/IOLab4/IOLab4/obj/Debug/IOLab4.csprojAssemblyReference.cache
+/Users/dominikhazak/Documents/projektyDev/Studia/S5/IO/IOLab4/IOLab4/obj/Debug/IOLab4.exe
+/Users/dominikhazak/Documents/projektyDev/Studia/S5/IO/IOLab4/IOLab4/obj/Debug/IOLab4.pdb
+/Users/dominikhazak/Documents/projektyDev/Studia/S5/IO/IOLab4/IOLab4/bin/Debug/System.Drawing.Common.dll
+/Users/dominikhazak/Documents/projektyDev/Studia/S5/IO/IOLab4/IOLab4/bin/Debug/System.Drawing.Primitives.dll
+/Users/dominikhazak/Documents/projektyDev/Studia/S5/IO/IOLab4/IOLab4/obj/Debug/IOLab4.csproj.CopyComplete
+C:\Users\pauli\Desktop\Semestr_5\IO - Inżynieria Oprogramowania\Laboratoria\Lab4\Lab4_v2\IOLab4\bin\Debug\IOLab4.exe
+C:\Users\pauli\Desktop\Semestr_5\IO - Inżynieria Oprogramowania\Laboratoria\Lab4\Lab4_v2\IOLab4\bin\Debug\IOLab4.pdb
+C:\Users\pauli\Desktop\Semestr_5\IO - Inżynieria Oprogramowania\Laboratoria\Lab4\Lab4_v2\IOLab4\bin\Debug\System.Drawing.Common.dll
+C:\Users\pauli\Desktop\Semestr_5\IO - Inżynieria Oprogramowania\Laboratoria\Lab4\Lab4_v2\IOLab4\obj\Debug\IOLab4.csprojAssemblyReference.cache
+C:\Users\pauli\Desktop\Semestr_5\IO - Inżynieria Oprogramowania\Laboratoria\Lab4\Lab4_v2\IOLab4\obj\Debug\IOLab4.csproj.CopyComplete
+C:\Users\pauli\Desktop\Semestr_5\IO - Inżynieria Oprogramowania\Laboratoria\Lab4\Lab4_v2\IOLab4\obj\Debug\IOLab4.exe
+C:\Users\pauli\Desktop\Semestr_5\IO - Inżynieria Oprogramowania\Laboratoria\Lab4\Lab4_v2\IOLab4\obj\Debug\IOLab4.pdb
