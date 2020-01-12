@@ -1,0 +1,6 @@
+C:\Users\pauli\Desktop\Semestr_5\IO - Inżynieria Oprogramowania\Laboratoria\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\pauli\Desktop\Semestr_5\IO - Inżynieria Oprogramowania\Laboratoria\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\pauli\Desktop\Semestr_5\IO - Inżynieria Oprogramowania\Laboratoria\Lab1\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\pauli\Desktop\Semestr_5\IO - Inżynieria Oprogramowania\Laboratoria\Lab1\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\pauli\Desktop\Semestr_5\IO - Inżynieria Oprogramowania\Laboratoria\Lab1\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\pauli\Desktop\Semestr_5\IO - Inżynieria Oprogramowania\Laboratoria\Lab1\Lab1\Lab1\obj\Debug\Lab1.pdb

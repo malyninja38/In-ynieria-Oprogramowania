@@ -1,0 +1,10 @@
+/Users/dominikhazak/Documents/projektyDev/Studia/S5/IO/EchoServer/EchoServer/bin/Debug/EchoServer.exe
+/Users/dominikhazak/Documents/projektyDev/Studia/S5/IO/EchoServer/EchoServer/bin/Debug/EchoServer.pdb
+/Users/dominikhazak/Documents/projektyDev/Studia/S5/IO/EchoServer/EchoServer/obj/Debug/EchoServer.csprojAssemblyReference.cache
+/Users/dominikhazak/Documents/projektyDev/Studia/S5/IO/EchoServer/EchoServer/obj/Debug/EchoServer.exe
+/Users/dominikhazak/Documents/projektyDev/Studia/S5/IO/EchoServer/EchoServer/obj/Debug/EchoServer.pdb
+C:\Users\pauli\Desktop\Semestr_5\IO - Inżynieria Oprogramowania\Laboratoria\Lab3\Lab3-zad7-serwer\EchoServer\bin\Debug\EchoServer.exe
+C:\Users\pauli\Desktop\Semestr_5\IO - Inżynieria Oprogramowania\Laboratoria\Lab3\Lab3-zad7-serwer\EchoServer\bin\Debug\EchoServer.pdb
+C:\Users\pauli\Desktop\Semestr_5\IO - Inżynieria Oprogramowania\Laboratoria\Lab3\Lab3-zad7-serwer\EchoServer\obj\Debug\EchoServer.csprojAssemblyReference.cache
+C:\Users\pauli\Desktop\Semestr_5\IO - Inżynieria Oprogramowania\Laboratoria\Lab3\Lab3-zad7-serwer\EchoServer\obj\Debug\EchoServer.exe
+C:\Users\pauli\Desktop\Semestr_5\IO - Inżynieria Oprogramowania\Laboratoria\Lab3\Lab3-zad7-serwer\EchoServer\obj\Debug\EchoServer.pdb

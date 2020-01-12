@@ -1,0 +1,5 @@
+C:\Users\pauli\Desktop\Semestr_5\IO - Inżynieria Oprogramowania\Laboratoria\Lab2\Zad1\Zad1\bin\Debug\Zad1.exe.config
+C:\Users\pauli\Desktop\Semestr_5\IO - Inżynieria Oprogramowania\Laboratoria\Lab2\Zad1\Zad1\bin\Debug\Zad1.exe
+C:\Users\pauli\Desktop\Semestr_5\IO - Inżynieria Oprogramowania\Laboratoria\Lab2\Zad1\Zad1\bin\Debug\Zad1.pdb
+C:\Users\pauli\Desktop\Semestr_5\IO - Inżynieria Oprogramowania\Laboratoria\Lab2\Zad1\Zad1\obj\Debug\Zad1.exe
+C:\Users\pauli\Desktop\Semestr_5\IO - Inżynieria Oprogramowania\Laboratoria\Lab2\Zad1\Zad1\obj\Debug\Zad1.pdb
